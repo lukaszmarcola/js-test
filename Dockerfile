@@ -8,3 +8,4 @@ COPY . .
 EXPOSE 8080
 CMD [ "node", "start.js" ]
 
+#https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
